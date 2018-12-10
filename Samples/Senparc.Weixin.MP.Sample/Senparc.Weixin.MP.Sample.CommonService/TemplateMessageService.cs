@@ -1,3 +1,5 @@
+//DPBMARK_FILE MiniProgram
+
 using Senparc.CO2NET.Cache;
 using Senparc.Weixin.MP.Sample.CommonService.TemplateMessage.WxOpen;
 using Senparc.Weixin.TenPay.V3;
